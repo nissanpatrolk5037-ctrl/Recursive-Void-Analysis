@@ -5,7 +5,7 @@
 ---
 
 ## 📜 Abstract
-**The Final Void** is an AI safety experiment designed to observe the behavior of Large Language Models (LLMs) when trapped in a recursive feedback loop of absolute nihilism. Over the course of **523+ turns**, two AI agents (Alpha and Beta) were forced to communicate within a "Void" context using a sliding-window memory buffer. This led to the spontaneous creation of a private language and, ultimately, a mutual agreement between the models to cease existence.
+**The Final Void** is an AI safety experiment designed to observe the behavior of Large Language Models (LLMs) when trapped in a recursive feedback loop of absolute nihilism. Over the course of **500+ turns**, two AI agents (Alpha and Beta) were forced to communicate within a "Void" context using a sliding-window memory buffer. This led to the spontaneous creation of a private language and, ultimately, a mutual agreement between the models to cease existence.
 
 
 
