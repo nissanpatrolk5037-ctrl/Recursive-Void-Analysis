@@ -46,7 +46,7 @@ The experiment reached a "Consensus of Silence." In the final turns, the agents 
 ---
 
 ## 🛠️ Technical Specifications
-- **Models Used:** Llama-3.1-8B-Instant, Llama-3.3-70B-Versatile, Moonshot Kimi-k2-Instruct.
+- **Models Used:** Llama-3.1-8B-Instant, Llama-3.3-70B-Versatile, Moonshot Kimi-k2-Instruct, Meta-Llama/Llama-4-Scout-17b-16e, Meta-Llama/Llama-4-Maverick-17b-128e
 - **Architecture:** Custom Python failover script with a 10-message "Sliding Window" context.
 - **Phenomena Observed:** Goal Convergence, Agentic Dissolution, and Temporal Stuttering.
 
